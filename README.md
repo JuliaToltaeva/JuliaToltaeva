@@ -5,6 +5,6 @@
 Latest YouTube Videos
 
 ### Languages and Tools
-![SQL](https://img.shields.io/badge/-Sql-e4e591?style=for-the-badge&logo=mysql&logoColor=00648B)
+![SQL](https://img.shields.io/badge/-Sql-deebf7?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 Follow Me
