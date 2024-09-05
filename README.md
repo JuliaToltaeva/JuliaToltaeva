@@ -8,4 +8,4 @@ Latest YouTube Videos
 ![SQL](https://img.shields.io/badge/-Sql-deebf7?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 ### Follow Me
-[![Telegram](https://img.shields.io/badge/-Telegram-deebf7?style=for-the-badge&logo=mysql&logoColor=27AOD9)](https://t.me/alta_eva)
+[![Telegram](https://img.shields.io/badge/-Telegram-deebf7?style=for-the-badge&logo=telegram&logoColor=27AOD9)](https://t.me/alta_eva)
